@@ -1,0 +1,26 @@
+{
+  "name": "weight-watchers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surfnbrain/weight-watchers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surfnbrain/weight-watchers/issues"
+  },
+  "homepage": "https://github.com/surfnbrain/weight-watchers#readme",
+  "dependencies": {
+    "aws-sdk": "^2.317.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "serverless-http": "^1.6.0"
+  }
+}
